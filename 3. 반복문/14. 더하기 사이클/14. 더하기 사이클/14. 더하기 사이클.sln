@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14. 더하기 사이클", "14. 더하기 사이클.vcxproj", "{884E47C4-2666-4F64-B931-BFD3606DA9D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{884E47C4-2666-4F64-B931-BFD3606DA9D9}.Debug|x64.ActiveCfg = Debug|x64
+		{884E47C4-2666-4F64-B931-BFD3606DA9D9}.Debug|x64.Build.0 = Debug|x64
+		{884E47C4-2666-4F64-B931-BFD3606DA9D9}.Debug|x86.ActiveCfg = Debug|Win32
+		{884E47C4-2666-4F64-B931-BFD3606DA9D9}.Debug|x86.Build.0 = Debug|Win32
+		{884E47C4-2666-4F64-B931-BFD3606DA9D9}.Release|x64.ActiveCfg = Release|x64
+		{884E47C4-2666-4F64-B931-BFD3606DA9D9}.Release|x64.Build.0 = Release|x64
+		{884E47C4-2666-4F64-B931-BFD3606DA9D9}.Release|x86.ActiveCfg = Release|Win32
+		{884E47C4-2666-4F64-B931-BFD3606DA9D9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8708364-BAEC-42E1-93BA-9C627A7C2E13}
+	EndGlobalSection
+EndGlobal
