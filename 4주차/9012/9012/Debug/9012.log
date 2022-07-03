@@ -1,0 +1,4 @@
+﻿  9012.cpp
+c:\users\이유빈\desktop\swu\알고리즘 스터디\4주차\9012\9012\9012.cpp(11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\이유빈\desktop\swu\알고리즘 스터디\4주차\9012\9012\9012.cpp(19): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  9012.vcxproj -> C:\Users\이유빈\Desktop\SWU\알고리즘 스터디\4주차\9012\Debug\9012.exe
